@@ -1,12 +1,14 @@
 # HealthCouncil
 
 ### a) Name and Matric No of the group members.<br> 
-NAME	            &               MATRIC NO<br>
-MOHAMED MOHAMED AHMED         	1733657 <br>
-BEN DAIA MOUNIR	               1815105<br>
-SALEH KAWTHAR SHAMSU ALAM	     1725298<br>
-HOUSSOU AHMED	                  1826025<br>
-BARRY ELHADJ MAMADOU ALPHA    	1719211<br>
+
+|NAME	             |               MATRIC NO |
+| ------------- | ------------- |
+|MOHAMED MOHAMED AHMED       |   	1733657  |
+|BEN DAIA MOUNIR	        |        1815105 |
+|SALEH KAWTHAR SHAMSU ALAM	 |     1725298 |
+|HOUSSOU AHMED	               |    1826025 |
+|BARRY ELHADJ MAMADOU ALPHA   |  	1719211 |
 
 
 
