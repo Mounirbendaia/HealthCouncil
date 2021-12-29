@@ -50,6 +50,9 @@ The platform will consist of a Homepage, Logging page. Information and Tips page
 ●	Users who want to raise their awareness about mental health issues. 
   	
 
+### h) References
 
+Malaysia Records Three Daily Suicides This Year Up To May
+By CodeBlue | 1 July 2021 https://codeblue.galencentre.org/2021/07/01/malaysia-records-three-daily-suicides-this-year-up-to-may/
 
 
