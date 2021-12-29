@@ -55,4 +55,16 @@ The platform will consist of a Homepage, Logging page. Information and Tips page
 Malaysia Records Three Daily Suicides This Year Up To May
 By CodeBlue | 1 July 2021 https://codeblue.galencentre.org/2021/07/01/malaysia-records-three-daily-suicides-this-year-up-to-may/
 
+## Presentation 
+https://youtu.be/vEd61GcPgDQ
+## Mockup 
+![iPhone 12 Pro Max – 2](https://user-images.githubusercontent.com/55817700/147679865-c0867320-36d8-42af-afc5-90edb01e2396.png)
+![iPhone 12 Pro Max – 8](https://user-images.githubusercontent.com/55817700/147679872-ace79648-5360-4011-b5a7-2b915c25c3d0.png)
+![iPhone 12 Pro Max – 10](https://user-images.githubusercontent.com/55817700/147679874-91d14709-3c88-4f32-b123-6c77c701291e.png)
+![iPhone 12, 12 Pro – 11](https://user-images.githubusercontent.com/55817700/147679875-3132eb1c-c780-4b94-9de4-ff9529ef9469.png)
+![iPhone 12, 12 Pro – 12](https://user-images.githubusercontent.com/55817700/147679880-724fc882-3874-40b0-a3d6-d3938b7273fd.png)
+![iPhone 12, 12 Pro – 13](https://user-images.githubusercontent.com/55817700/147679890-07ee17bf-be22-429d-8690-eb0fa618f27f.png)
+![Main screen](https://user-images.githubusercontent.com/55817700/147679907-3e958c04-f38c-4d5c-a52f-76c0876f2a3a.png)
+![Splash Screen](https://user-images.githubusercontent.com/55817700/147679909-f1da2ec0-c5ec-4433-b427-84e9eafb906c.png)
+![iPhone 12 Pro Max – 1](https://user-images.githubusercontent.com/55817700/147679914-21cb41b6-3c42-453e-984c-24f7666cc3f7.png)
 
