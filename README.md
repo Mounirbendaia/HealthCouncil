@@ -1,7 +1,7 @@
 # HealthCouncil
 
 ### a) Name and Matric No of the group members.<br> 
-NAME	                           MATRIC NO<br>
+NAME	            &               MATRIC NO<br>
 MOHAMED MOHAMED AHMED         	1733657 <br>
 BEN DAIA MOUNIR	               1815105<br>
 SALEH KAWTHAR SHAMSU ALAM	     1725298<br>
@@ -29,12 +29,12 @@ The platform will consist of a Homepage, Logging page. Information and Tips page
 4-	meditation <br>
 5-	Policy and contact us page.  <br>
 
-### f) Properly define the screen navigation (routing) and components (presentational and
-container) implementation with a diagram. <br>
+### f) Properly define the screen navigation (routing) and components (presentational and container) implementation with a diagram. <br>
 ![Untitled Workspace (40)](https://user-images.githubusercontent.com/55817700/147667521-de6f2281-0e48-4014-b3ad-f893c950cb2c.png)
 
 
 <br>
+
 ### g) A sequence diagram to represent the interaction of the proposed mobile application. <br>
 
 ![Untitled Workspace (42)](https://user-images.githubusercontent.com/55817700/147669279-ccfc2409-d7ba-40b8-8807-ad51085210a9.png)
@@ -50,5 +50,4 @@ container) implementation with a diagram. <br>
 ### 	SIGNIFICANCE OF THE PROJECT  
 The main significance of the project is to develop a platform that can help individuals with their mental health. The app will monitor and sharing in illness and wellness by an individual in a secure and confidential environment. 
 
-   	    
- 
+
