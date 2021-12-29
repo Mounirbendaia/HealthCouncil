@@ -20,6 +20,7 @@ During the Covid-19 Pandemic, the number of people suffering from anxiety or dep
 <br>
 ### d) Objective of the proposed mobile application.<br>
 Our app aims to help individuals with mental health issues by increasing their awareness and providing them with meditations to help them overcome this problem.
+The main significance of the project is to develop a platform that can help individuals with their mental health. The app will monitor and sharing in illness and wellness by an individual in a secure and confidential environment. 
 	<br>
 ### e) Features and functionalities of the proposed mobile application.<br>
 The platform will consist of a Homepage, Logging page. Information and Tips page that gives you various advice on how to reduce the issue. The meditation contains practical advice on how to replace sadness with a pragmatic and ultimately satisfying outlook on life.  
@@ -47,7 +48,6 @@ The platform will consist of a Homepage, Logging page. Information and Tips page
 ●	Users who want to raise their awareness about mental health issues. 
   	
 
-### 	SIGNIFICANCE OF THE PROJECT  
-The main significance of the project is to develop a platform that can help individuals with their mental health. The app will monitor and sharing in illness and wellness by an individual in a secure and confidential environment. 
+
 
 
