@@ -143,10 +143,10 @@ The platform will consist of a Homepage, Logging page. Information and Tips page
 "react-native-splash-screen"
 "react-navigation"
 ### User Authentication (Firebase Authentication)
-Firebase Authentication services used for Login and User Registration functionalities.
+Firebase Authentication services used for Login and User Registration functionalities.<br>
 ![image](https://user-images.githubusercontent.com/55817700/150685757-be26a032-3907-4298-965e-88963b72a322.png)
 ![image](https://user-images.githubusercontent.com/55817700/150686127-8d0b7780-476e-4caf-a662-9a22e477e3b2.png)
-![image](https://user-images.githubusercontent.com/55817700/150685785-996ba571-1ed0-417b-a737-07b6f1001547.png)
+![image](https://user-images.githubusercontent.com/55817700/150686162-71060cad-0abb-4498-b930-5d262d9159de.png)
 
 ## UI
 ![image](https://user-images.githubusercontent.com/55817700/150685833-bc4b6610-0913-4be7-9cac-080d4b2d8266.png)
