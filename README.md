@@ -123,6 +123,8 @@ The platform will consist of a Homepage, Logging page. Information and Tips page
 @react-native-async-storage/async-storage For Async Storage<br>
 @react-native-community/checkbox React Native component for Checkbox<br>
 @react-native-community/datetimepicker For selecting the date in registration <br>
+![image](https://user-images.githubusercontent.com/55817700/150686411-8a88a788-5f1d-47c0-91df-8e9702fe684b.png)<br>
+
 @react-native-firebase/app Firbase<br>
 @react-native-firebase/database" for Firbase database<br>
 "@react-navigation/drawer"<br>
