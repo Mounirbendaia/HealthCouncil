@@ -153,7 +153,8 @@ Firebase Authentication services used for Login and User Registration functional
 Splash screen<br>
 ![image](https://user-images.githubusercontent.com/55817700/150685862-0cea23a5-182a-4044-a384-b0daab242f50.png)<br>
 get Started screen<br>
-![image](https://user-images.githubusercontent.com/55817700/150685874-5266f09c-2691-4948-9ff2-0479f6116503.png)<br>
+![image](https://user-images.githubusercontent.com/55817700/150686246-5ca58097-2853-41a0-99c0-c021266ee8c9.png)
+<br>
 ![image](https://user-images.githubusercontent.com/55817700/150685895-0a63e05d-4da4-4464-b6aa-20fa7e9ebc17.png)<br>
 Registration<br>
 ![image](https://user-images.githubusercontent.com/55817700/150685932-66815094-5f22-4434-95c7-bf417a83c64c.png)<br>
