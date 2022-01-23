@@ -120,28 +120,28 @@ The platform will consist of a Homepage, Logging page. Information and Tips page
 ●	Users who want to raise their awareness about mental health issues. 
   	
 ### The packages used in the application
-@react-native-async-storage/async-storage For Async Storage
-@react-native-community/checkbox React Native component for Checkbox
-@react-native-community/datetimepicker For selecting the date in registration 
-@react-native-firebase/app Firbase
-@react-native-firebase/database" for Firbase database
-"@react-navigation/drawer"
-"@react-navigation/native"
-"@react-navigation/stack"
-"firebase"
-"native-base"
-"react"
-"react-native"
-"react-native-gesture-handler"
-"react-native-modal-datetime-picker"
-"react-native-paper"
-"react-native-radio-buttons"
-"react-native-reanimated"
-"react-native-safe-area-context"
-"react-native-screens"
-"react-native-simple-radio-button"
-"react-native-splash-screen"
-"react-navigation"
+@react-native-async-storage/async-storage For Async Storage<br>
+@react-native-community/checkbox React Native component for Checkbox<br>
+@react-native-community/datetimepicker For selecting the date in registration <br>
+@react-native-firebase/app Firbase<br>
+@react-native-firebase/database" for Firbase database<br>
+"@react-navigation/drawer"<br>
+"@react-navigation/native"<br>
+"@react-navigation/stack"<br>
+"firebase"<br>
+"native-base"<br>
+"react"<br>
+"react-native"<br>
+"react-native-gesture-handler"<br>
+"react-native-modal-datetime-picker"<br>
+"react-native-paper"<br>
+"react-native-radio-buttons"<br>
+"react-native-reanimated"<br>
+"react-native-safe-area-context"<br>
+"react-native-screens"<br>
+"react-native-simple-radio-button"<br>
+"react-native-splash-screen"<br>
+"react-navigation"<br>
 ### User Authentication (Firebase Authentication)
 Firebase Authentication services used for Login and User Registration functionalities.<br>
 ![image](https://user-images.githubusercontent.com/55817700/150685757-be26a032-3907-4298-965e-88963b72a322.png)
