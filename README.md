@@ -149,25 +149,25 @@ Firebase Authentication services used for Login and User Registration functional
 ![image](https://user-images.githubusercontent.com/55817700/150686162-71060cad-0abb-4498-b930-5d262d9159de.png)
 
 ## UI
-![image](https://user-images.githubusercontent.com/55817700/150685833-bc4b6610-0913-4be7-9cac-080d4b2d8266.png)
-Splash screen
-![image](https://user-images.githubusercontent.com/55817700/150685862-0cea23a5-182a-4044-a384-b0daab242f50.png)
-get Started screen
-![image](https://user-images.githubusercontent.com/55817700/150685874-5266f09c-2691-4948-9ff2-0479f6116503.png)
-![image](https://user-images.githubusercontent.com/55817700/150685895-0a63e05d-4da4-4464-b6aa-20fa7e9ebc17.png)
-Registration
-![image](https://user-images.githubusercontent.com/55817700/150685932-66815094-5f22-4434-95c7-bf417a83c64c.png)
-login
-![image](https://user-images.githubusercontent.com/55817700/150685973-91a4bba7-28d9-44d9-aceb-d85adac82cd6.png)
-home page
-![image](https://user-images.githubusercontent.com/55817700/150685992-450ac506-34ca-480c-ae92-1c4d21bdcfb4.png)
-Tips
-![image](https://user-images.githubusercontent.com/55817700/150686011-9ff2d2be-6b9e-41f0-ad9b-388714f55629.png)
-side bar menu
-![image](https://user-images.githubusercontent.com/55817700/150686025-c23ea809-ce85-4887-985f-465872409632.png)
-informations page 
-![image](https://user-images.githubusercontent.com/55817700/150686045-5d0eab81-a0e4-48c3-b46d-cbc38c27bf3a.png)
-Meditation
+![image](https://user-images.githubusercontent.com/55817700/150685833-bc4b6610-0913-4be7-9cac-080d4b2d8266.png)<br>
+Splash screen<br>
+![image](https://user-images.githubusercontent.com/55817700/150685862-0cea23a5-182a-4044-a384-b0daab242f50.png)<br>
+get Started screen<br>
+![image](https://user-images.githubusercontent.com/55817700/150685874-5266f09c-2691-4948-9ff2-0479f6116503.png)<br>
+![image](https://user-images.githubusercontent.com/55817700/150685895-0a63e05d-4da4-4464-b6aa-20fa7e9ebc17.png)<br>
+Registration<br>
+![image](https://user-images.githubusercontent.com/55817700/150685932-66815094-5f22-4434-95c7-bf417a83c64c.png)<br>
+login<br>
+![image](https://user-images.githubusercontent.com/55817700/150685973-91a4bba7-28d9-44d9-aceb-d85adac82cd6.png)<br>
+home page<br>
+![image](https://user-images.githubusercontent.com/55817700/150685992-450ac506-34ca-480c-ae92-1c4d21bdcfb4.png)<br>
+Tips<br>
+![image](https://user-images.githubusercontent.com/55817700/150686011-9ff2d2be-6b9e-41f0-ad9b-388714f55629.png)<br>
+side bar menu<br>
+![image](https://user-images.githubusercontent.com/55817700/150686025-c23ea809-ce85-4887-985f-465872409632.png)<br>
+informations page <br>
+![image](https://user-images.githubusercontent.com/55817700/150686045-5d0eab81-a0e4-48c3-b46d-cbc38c27bf3a.png)<br>
+Meditation<br>
 
 ### h) References
 
