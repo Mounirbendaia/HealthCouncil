@@ -145,7 +145,7 @@ The platform will consist of a Homepage, Logging page. Information and Tips page
 ### User Authentication (Firebase Authentication)
 Firebase Authentication services used for Login and User Registration functionalities.
 ![image](https://user-images.githubusercontent.com/55817700/150685757-be26a032-3907-4298-965e-88963b72a322.png)
-![image](https://user-images.githubusercontent.com/55817700/150685773-7ff044c3-6fdd-42a0-bb48-e28ce855e2b3.png)
+![image](https://user-images.githubusercontent.com/55817700/150686127-8d0b7780-476e-4caf-a662-9a22e477e3b2.png)
 ![image](https://user-images.githubusercontent.com/55817700/150685785-996ba571-1ed0-417b-a737-07b6f1001547.png)
 
 ## UI
