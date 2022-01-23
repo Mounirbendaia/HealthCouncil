@@ -157,7 +157,7 @@ get Started screen<br>
 <br>
 ![image](https://user-images.githubusercontent.com/55817700/150685895-0a63e05d-4da4-4464-b6aa-20fa7e9ebc17.png)<br>
 Registration<br>
-![image](https://user-images.githubusercontent.com/55817700/150685932-66815094-5f22-4434-95c7-bf417a83c64c.png)<br>
+![image](https://user-images.githubusercontent.com/55817700/150686265-72e3f890-888b-43ee-8048-472ab914f5bc.png)<br>
 login<br>
 ![image](https://user-images.githubusercontent.com/55817700/150685973-91a4bba7-28d9-44d9-aceb-d85adac82cd6.png)<br>
 home page<br>
